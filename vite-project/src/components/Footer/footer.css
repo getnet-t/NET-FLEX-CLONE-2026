@@ -1,0 +1,52 @@
+.Aouterfoterraper {
+  width: 100%;
+  padding: 30px 40px;
+}
+
+.footreimage ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footreimage li {
+  font-size: 22px;
+  cursor: pointer;
+}
+.footergraund {
+  width: 100%;
+  padding: 20px 40px;
+}
+
+.footergraund ul {
+  display: flex;
+  gap: 60px; /* space between columns */
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.fiirstcolem,
+.secondcolem,
+.therdcolem,
+.fourthcolem {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.footergraund li {
+  font-size: 14px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.footergraund li:hover {
+  text-decoration: underline;
+  opacity: 1;
+}
+.footreimage,
+.footergraund {
+  max-width: 1200px;
+  margin: auto;
+}

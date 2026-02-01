@@ -1,6 +1,8 @@
 .Aouterfoterraper {
   width: 100%;
   padding: 30px 40px;
+  background-color: black;
+  color: wheat;
 }
 
 .footreimage ul {
@@ -17,7 +19,12 @@
 }
 .footergraund {
   width: 100%;
+   /*max-width: 1000px;*/
   padding: 20px 40px;
+  background-color: black;
+  background-size: cover;
+  color: wheat;
+  text-align: center;
 }
 
 .footergraund ul {
@@ -47,6 +54,6 @@
 }
 .footreimage,
 .footergraund {
-  max-width: 1200px;
+ /* max-width: 1200px;*/
   margin: auto;
 }

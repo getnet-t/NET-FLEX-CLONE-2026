@@ -21,6 +21,12 @@ color: aliceblue;
   margin: 0;
   padding: 0;
 }
+.internaraper ul :hover{
+  /*background-color: aqua;*/
+  cursor: pointer;
+  background-color: transparent;
+
+}
 
 /* Right section */
 .rightimage ul {

@@ -17,10 +17,11 @@ function Footer() {
         </ul>
         </div>
         </div>
+        <div className="footercover">
         <div className="footergraund">
           <ul>
             <div className="fiirstcolem">
-            <li>Aoudiodescription</li>
+            <li>Aoudio &description</li>
             <li>INVENTER relationshipe </li>
             <li>Leagal notes</li>
             <li>servise code </li>
@@ -42,6 +43,7 @@ function Footer() {
             <li>privacy</li>
             </div>
             </ul>
+            </div>
         </div>
     </div>
     </>
